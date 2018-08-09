@@ -1,5 +1,6 @@
 # tracking-papers-in-IJCV
-relatively new tracking papers in International Journal of Computer Vision
+relatively new tracking papers in International Journal of Computer Vision  
+**Thanks for Shaokun Zhang's help in this section!**
 
 *Data of publication:  04 July 2018*  
 Title: **Hyper-Siamese network for robust visual tracking**  
